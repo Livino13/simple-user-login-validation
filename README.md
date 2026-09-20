@@ -11,6 +11,12 @@ A two-page demo with no backend and no dependencies:
 - **`home.html`** — welcome page shown after a successful login, with a Logout button.
 - **`styless.css`** — centered card layout on a pink gradient background.
 
+## 📸 Screenshots
+
+| Login form | Welcome page |
+| --- | --- |
+| ![Login form](screenshots/login.png) | ![Welcome page](screenshots/home.png) |
+
 ## 🚀 Getting Started
 
 No build step, no server needed:
@@ -40,7 +46,8 @@ simple-user-login-validation/
 ├── login.html    # Login form
 ├── home.html     # Welcome page after login
 ├── scripts.js    # Credential validation logic
-└── styless.css   # Styling (gradient background, centered card)
+├── styless.css   # Styling (gradient background, centered card)
+└── screenshots/  # Login and welcome page captures
 ```
 
 ## 🛠️ Tech Stack
